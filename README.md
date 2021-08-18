@@ -31,7 +31,9 @@
 [![GitHub Vighnesh Deep Sharan](https://img.shields.io/github/followers/vighneshdeepweb?label=follow&style=social)](https://github.com/just-hacked)
 [![website](https://img.shields.io/badge/PortfolioWebsite-website-2648ff?style=flat-square&logo=google-chrome)](https://justhacked.tk/)
 
+<a href="https://github.com/just-hacked">
 <img align="center" src="https://1.bp.blogspot.com/-DnCqyKFMm-A/YB4IL6MkPWI/AAAAAAAAFf8/y8EkdxKk0dM4jDf2Zqr-j1r77Adlcj54gCLcBGAsYHQ/s2048/0001-14658099030_20201221_094700_0000.png" />
+</a>
 
 ### Languages and Tools:  
 
@@ -46,15 +48,18 @@
 
 
 <br/>
+
+<a href="https://github.com/just-hacked">
 <img align="center" src="https://1.bp.blogspot.com/-TjQ2ri9ctfE/YB4Ht6XavxI/AAAAAAAAFf0/OP0YxEMKfhsLGk9tY1qeRywVDOUSlO3HwCLcBGAsYHQ/w600/standard%2B%25281%2529.gif" />
+</a>
 
 ### Quick Stats:
 
-<a href="https://github.com/vighneshdeepweb">
+<a href="https://github.com/just-hacked">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-hacked&theme=dark&hide=TCL" />
 </a>
 
-<a href="https://github.com/vighneshdeepweb">
+<a href="https://github.com/just-hacked">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=just-hacked&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Vighnesh's github stats"/>
 </a>
 
