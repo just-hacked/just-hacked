@@ -1,21 +1,18 @@
 ## Hi, I'm [Just Hacked](https://justhacked.tech) 👋
 
-![](https://komarev.com/ghpvc/?username=vighneshdeepweb)
+![](https://komarev.com/ghpvc/?username=just-hacked)
 
-<a href="https://twitter.com/F4Flicker">
+<a href="https://twitter.com/its_justhacked">
   <img align="left" alt="Vighnesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vighnesh-deep-202001">
-  <img align="left" alt="Vighnesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/vighneshdeepweb">
+<a href="https://github.com/just-hacked">
   <img align="left" alt="Vighnesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/f4.vighnesh">
-  <img align="left" alt="Vighnesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/its_justhacked">
+  <img align="left" alt="its_justhacked Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/Vighneshdeep">
-  <img align="left" alt="Vighnesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="its_justhacked Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br/>
@@ -24,17 +21,17 @@
 
 - 🌱 I’m forever a student of life
 - 👯 I’m looking to collaborate on Deep learning projects/CyberSecurity
-- 🤔 My favourite quote: `Keep it Simple Stupid!`
+- 🤔 My favourite quote: `Fuck the world !`
 - 💬 Ask me about Computer Vision,Flutter,Python,Tf,CyberSecurity.
-- 📫 How to reach me: [email](mailto:vighneshdeepsharan2002@gmail.com), [LinkedIn](https://www.linkedin.com/in/vighnesh-deep-202001)
+- 📫 How to reach me: [email](mailto:justhacked21@gmail.com),
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love basketball
+- ⚡ Fun fact: u know me
 
-[![Twitter: F4Flicker](https://img.shields.io/twitter/follow/F4Flicker?style=social)](https://twitter.com/F4Flicker)
-[![Linkedin: Vighnesh Deep Sharan](https://img.shields.io/badge/-Vighnesh_Deep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vighnesh-deep-202001/)](https://www.linkedin.com/in/vighnesh-deep-202001/)
-[![GitHub Vighnesh Deep Sharan](https://img.shields.io/github/followers/vighneshdeepweb?label=follow&style=social)](https://github.com/vighneshdeepweb)
-[![website](https://img.shields.io/badge/PortfolioWebsite-website-2648ff?style=flat-square&logo=google-chrome)](https://vighnesh-responsive.netlify.app/)
+[![Twitter: its_justhacked](https://img.shields.io/twitter/follow/its_justhacked?style=social)](https://twitter.com/its_justhacked)
+[![GitHub Vighnesh Deep Sharan](https://img.shields.io/github/followers/vighneshdeepweb?label=follow&style=social)](https://github.com/just-hacked)
+[![website](https://img.shields.io/badge/PortfolioWebsite-website-2648ff?style=flat-square&logo=google-chrome)](https://justhacked.tk/)
 
+<img align="center" src="https://1.bp.blogspot.com/-DnCqyKFMm-A/YB4IL6MkPWI/AAAAAAAAFf8/y8EkdxKk0dM4jDf2Zqr-j1r77Adlcj54gCLcBGAsYHQ/s2048/0001-14658099030_20201221_094700_0000.png" />
 
 ### Languages and Tools:  
 
@@ -54,16 +51,16 @@
 ### Quick Stats:
 
 <a href="https://github.com/vighneshdeepweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshdeepweb&theme=dark&hide=TCL" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-hacked&theme=dark&hide=TCL" />
 </a>
 
 <a href="https://github.com/vighneshdeepweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vighneshdeepweb&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Vighnesh's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=just-hacked&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Vighnesh's github stats"/>
 </a>
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### we are anonymous !
 
 </div>
 
