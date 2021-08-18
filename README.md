@@ -1,4 +1,4 @@
-## Hi, I'm [Vighnesh Deep Sharan](https://vighnesh-responsive.netlify.app/) 👋
+## Hi, I'm [Just Hacked](https://justhacked.tech) 👋
 
 ![](https://komarev.com/ghpvc/?username=vighneshdeepweb)
 
