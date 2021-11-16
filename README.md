@@ -28,7 +28,7 @@
 - ⚡ Fun fact: u know me
 
 [![Twitter: its_justhacked](https://img.shields.io/twitter/follow/its_justhacked?style=social)](https://twitter.com/its_justhacked)
-[![GitHub Vighnesh Deep Sharan](https://img.shields.io/github/followers/vighneshdeepweb?label=follow&style=social)](https://github.com/just-hacked)
+[![GitHub Just Hacked](https://img.shields.io/github/followers/vighneshdeepweb?label=follow&style=social)](https://github.com/just-hacked)
 [![website](https://img.shields.io/badge/PortfolioWebsite-website-2648ff?style=flat-square&logo=google-chrome)](https://justhacked.tk/)
 
 <a href="https://github.com/just-hacked">
