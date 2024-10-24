@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on Deep learning projects/CyberSecurity
 - 🤔 My favourite quote: `Fuck the world !`
 - 💬 Ask me about Computer Vision,Flutter,Python,Tf,CyberSecurity.
-- 📫 How to reach me: [Telegram](t.me/its_justhacked),
+- 📫 How to reach me: [Telegram](https://t.me/its_justhacked/),
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: u know me
 
